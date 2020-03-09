@@ -69,13 +69,13 @@ ROI的获取主要利用opncv库进行**图片预处理**，将图片转化为�
 
 ```
 .
-├── pic								 // 图片
+├── pic								               // 图片
 ├── activate_func.py                 // 激活函数
-├── config.py              		     // 参数配置文件
-├── recognizeR.py                	 // 图像处理函数
-├── main.py                    		 // 主函数
+├── config.py              		       // 参数配置文件
+├── recognizeR.py                	   // 图像处理函数
+├── main.py                    		   // 主函数
 ├── parameters.pkl                   // 预训练参数
-├── predict.py						 // 识别函数
+├── predict.py						           // 识别函数
 └── requirements.txt                 // 依赖库
 ```
 
