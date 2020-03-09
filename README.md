@@ -19,7 +19,7 @@ python main.py
 
 ### 3. 结果说明
 
-![result](C:\Users\ya059\Desktop\recognizeR\pic\result.jpg)
+![result](https://github.com/BeingGod/recognizeR/blob/master/pic/result.jpg)
 
 大符中心坐标为`(1039.0, 434.5)`，时间开销为`0.52952`秒
 
@@ -29,7 +29,7 @@ python main.py
 
 调试模式下将读取完整视频流，并且展示图像和打印获取中心坐标
 
-![debug](C:\Users\ya059\Desktop\recognizeR\pic\debug.png)
+![debug](https://github.com/BeingGod/recognizeR/blob/master/pic/debug.png)
 
 #### 启用调试模式
 
@@ -41,7 +41,7 @@ python main.py
 
 ### 程序流程
 
-![process](C:\Users\ya059\Desktop\recognizeR\pic\process.png)
+![process](https://github.com/BeingGod/recognizeR/blob/master/pic/process.png)
 
 ### ROI获取
 
